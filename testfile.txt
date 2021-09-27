@@ -1,1 +1,2 @@
-The brown fox does not want to jump
+The brown fox jumps over the fence
+but it does NOT want to jump
